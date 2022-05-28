@@ -1,0 +1,3 @@
+/home/usrname/CLionProjects/LAB26/cmake-build-debug/CMakeFiles/LAB26.dir
+/home/usrname/CLionProjects/LAB26/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/usrname/CLionProjects/LAB26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
